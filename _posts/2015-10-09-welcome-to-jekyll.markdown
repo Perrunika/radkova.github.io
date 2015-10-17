@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "October Colors"
 date:   2015-10-17 19:14:38
-categories: jekyll update
+categories: october
 ---
