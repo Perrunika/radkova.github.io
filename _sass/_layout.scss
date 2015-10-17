@@ -199,6 +199,9 @@
 .thumbnail {
     max-width: 400px;
     padding-bottom: 30px;
+    @include media-query($on-palm) {
+        max-width: 100%;
+    }
 }
 
 .post-header {
