@@ -161,6 +161,9 @@
 /**
  * Page content
  */
+ .page-thumbnail {
+    max-width: 150px;
+}
 .page-content {
     padding: $spacing-unit 0;
 }
@@ -193,6 +196,10 @@
 /**
  * Posts
  */
+.thumbnail {
+    max-width: 300px;
+}
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
